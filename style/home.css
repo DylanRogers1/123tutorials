@@ -1,12 +1,25 @@
 body
 {
-    background-color: #08f;
-    color: white;
-    text-align: center;
+	background-color: #08f;
+	color: white;
+	text-align: center;
 }
 
 h1
 {
-    font-family: serif;
-    font-size: 5vw;
+	font-family: serif;
+	font-size: 5vw;
+	color: #fc0;
+}
+
+div
+{
+	width: 70%;
+	height: 300px;
+}
+
+#htmld
+{
+	background-color: green;
+	border-radius: 5em;
 }
